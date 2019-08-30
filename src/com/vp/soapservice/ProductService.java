@@ -1,4 +1,4 @@
-package com.vp.webservice.service;
+package com.vp.soapservice;
 
 import java.util.ArrayList;
 import java.util.List;
