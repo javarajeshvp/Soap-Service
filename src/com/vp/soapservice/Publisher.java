@@ -1,4 +1,4 @@
-package com.vp.webservice.service;
+package com.vp.soapservice;
 
 import javax.xml.ws.Endpoint;
 
